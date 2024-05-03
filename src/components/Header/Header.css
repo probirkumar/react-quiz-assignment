@@ -1,0 +1,20 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 150px;
+}
+.quiz-container {
+    font-size: 25px;
+    color: rgb(98, 43, 150);
+}
+.nav-container a {
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 10px;
+    border: 1px solid lightslategray;
+    border-radius: 5px;
+    font-size: 25px;
+    color: black;
+
+}
