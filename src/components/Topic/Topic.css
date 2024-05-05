@@ -1,0 +1,27 @@
+.topic-container {
+    background-color: rgb(247, 207, 207);
+    margin-right: 20px;
+    border-radius: 10px;
+    border: 2px solid rgb(124, 120, 120);
+}
+
+.img-details {
+    background-color: rgb(72, 72, 145);
+}
+.img-details img {
+    width: 70%;
+}
+.text-details{
+    padding: 50px;
+    text-align: left;
+    background-color: rgb(116, 116, 116);
+    color: white;
+}
+
+.btn-container{
+    padding: 15px;
+    background-color: rgb(75, 66, 66);
+    color: white;
+    border: 3px solid white;
+    font-size: 20px;
+}

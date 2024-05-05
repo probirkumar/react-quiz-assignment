@@ -1,27 +1,6 @@
-.header-area-wrapper {
+.topicData-container {
     display: flex;
     justify-content: space-between;
-    padding: 70px 20px 50px 150px;
-    background-color: rgb(224, 224, 224);
-}
-
-.home-text{
-    text-align: left;
-}
-.home-text h2{
-    font-size: 70px;
-    margin-bottom: 10px;
-}
-.home-text p {
-    font-size: 25px;
-}
-
-.image-container img {
-    width: 70%;
-}
-
-.btn-container {
-    padding: 15px 30px;
-    border-radius: 7px;
-    border: 3px solid black;
+    align-items: center;
+    margin: 100px;
 }
